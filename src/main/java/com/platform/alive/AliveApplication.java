@@ -1,4 +1,4 @@
-package com.lihaiqi.alive;
+package com.platform.alive;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
